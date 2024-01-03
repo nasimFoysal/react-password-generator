@@ -1,6 +1,8 @@
 Generates a random password for the user.
-No design implemented. 
+Not a single focus on design/css 
 all work on App.jsx
+
+live site: https://6595bd04ada86b0d00099fdc--bucolic-tulumba-be218c.netlify.app/
 
 
 # React + Vite
